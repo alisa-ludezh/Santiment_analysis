@@ -1,0 +1,368 @@
+<response>
+
+probably negative
+probably negative
+</response>
+<response>
+Хуево
+probably negative
+probably negative
+</response>
+<response>
+Хуево
+probably negative
+probably negative
+</response>
+<response>
+Отлично
+probably negative
+probably negative
+</response>
+<response>
+Отлично
+probably negative
+probably negative
+</response>
+<response>
+хорошо
+probably negative
+probably negative
+</response>
+<response>
+Good
+
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+Badly
+probably negative
+probably negative
+</response>
+<response>
+Poison
+probably negative
+probably negative
+</response>
+<response>
+Beautiful Addictivity
+probably negative
+probably negative
+</response>
+<response>
+Beautiful Addictivity
+probably negative
+probably negative
+</response>
+<response>
+Beautiful
+probably negative
+probably negative
+</response>
+<response>
+Beautiful
+probably negative
+probably negative
+</response>
+<response>
+Beautiful soup
+probably negative
+probably negative
+</response>
+<response>
+Beautiful soup good
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+Beautiful soup good best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Beautiful soup good best better
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+Beautiful soup good best worst
+probably negative
+probably negative
+</response>
+<response>
+Beautiful soup good best worse
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+Not bad
+ negative
+ negative
+</response>
+<response>
+Not good
+probably negative
+probably negative
+</response>
+<response>
+Not very best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Not bad
+ negative
+ negative
+</response>
+<response>
+No way
+probably negative
+probably negative
+</response>
+<response>
+Awesome
+
+probably negative
+probably negative
+</response>
+<response>
+Awesome
+
+probably negative
+probably negative
+</response>
+<response>
+Awesome
+probably negative
+probably negative
+</response>
+<response>
+Awe
+probably negative
+probably negative
+</response>
+<response>
+Like
+probably negative
+probably negative
+</response>
+<response>
+Like
+probably negative
+probably negative
+</response>
+<response>
+Like a boss
+probably negative
+probably negative
+</response>
+<response>
+Best
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Definetely The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Definitely The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Definitely The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+Definitely The Best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+fool
+probably negative
+probably negative
+</response>
+<response>
+fuck off 
+probably negative
+probably negative
+</response>
+<response>
+fuck off mutherfucker
+probably negative
+probably negative
+</response>
+<response>
+mutherfucker
+probably negative
+probably negative
+</response>
+<response>
+good
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+good nice
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+grk
+probably negative
+probably negative
+</response>
+<response>
+grky
+probably negative
+probably negative
+</response>
+<response>
+very nice
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+nice
+probably negative
+probably negative
+</response>
+<response>
+best
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+the best
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+the best movie
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+the best film
+neutral or uncertain positive
+neutral or uncertain positive
+</response>
+<response>
+the best film I've ever seen
+probably positive
+probably positive
+</response>
+<response>
+the best film in my life
+probably positive
+probably positive
+</response>
+<response>
+the best film in my life
+probably positive
+probably positive
+</response>
+<response>
+the worst film in my life
+probably negative
+probably negative
+</response>
+<response>
+I don't know
+probably negative
+probably negative
+</response>
+<response>
+I don't know
+probably negative
+probably negative
+</response>
+<response>
+I don't know. What it is?
+probably negative
+probably negative
+</response>
+<response>
+cute film
+probably negative
+probably negative
+</response>
+<response>
+normal
+probably negative
+probably negative
+</response>
+<response>
+normal
+probably negative
+probably negative
+</response>
+<response>
+best
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+good one
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+Probably I should go to this film drunk
+probably negative
+probably negative
+</response>
+<response>
+Probably I should go to this film drunk or high to realize all layouts of storytelling
+ negative
+ negative
+</response>
+<response>
+Probably I should go to this film drunk or high to realize all layouts of story-telling
+ negative
+ negative
+</response>
+<response>
+Probably I should go to this film drunk or at high to realize all layouts of story-telling
+ negative
+ negative
+</response>
+<response>
+Probably I should go to this film drunk or at high to realize all layouts of story-telling
+ negative
+ negative
+</response>
+<response>
+fun
+neutral or uncertain negative
+neutral or uncertain negative
+</response>
+<response>
+bad unfortunately
+ negative
+ negative
+</response>
